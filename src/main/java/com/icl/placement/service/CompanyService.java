@@ -13,7 +13,7 @@ import java.util.List;
 @Configuration
 public class CompanyService {
 
-    private String Name = "Thejaswi";
+    private String Name = "Hello world";
 
     @Autowired
     private CompanyRepository companyRepository;
